@@ -23,7 +23,7 @@ Lets connect!
    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-   <img src="https://media1.giphy.com/media/X5wqqXmtbttG121WMy/giphy.gif?cid=ecf05e47y4mcs0lolq2hkjy3byk23ao90o4593d4dn8wq8dz&rid=giphy.gif&ct=g" width="100" height="28">
+   <img src="https://c.tenor.com/tcPfj9X8ZDMAAAAi/meme.gif" width="150" height="35">
   <p>
 </div>
 
