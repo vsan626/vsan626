@@ -5,7 +5,8 @@ I'm Danny, a passionate full stack developer located in Los Angeles, CA. I live 
 </p>
 
 - 🔭 Currently working on improving my knowledge with data structures & algorithms
-- 🤔 I’m looking for help with data structures & algorithms
+- 🤔 I’m constantly looking for ways to increase my work efficiency
+- :weight_lifting: I welcome the challenge of being able to push myself mentally and physically through weight training
 - 💬 Ask me about anything!
 
 Lets connect! 
